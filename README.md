@@ -1,7 +1,7 @@
 # pdf417-formatred barcode object detection dataset
-This is the barcode detection dataset for detecting pdf417-formatted barcodes under the shooting of industrial cameras.
-This dataset contains 1,416 images with annotations of YOLO format and COCO format provided.
-The YOLOv8s model trained by this dataset has been applied in BatchScan software in Ericsson logistics. 
+This is a barcode detection dataset for detecting pdf417-formatted barcodes under the shooting of industrial cameras.
+This dataset contains 1,416 images with annotations of YOLO format and COCO format offered.
+The YOLOv8s model trained by this dataset has been applied in the BatchScan software in Ericsson logistics. 
 
 # Rank and Sort Loss-aware Label Assignment
 The recent progress in object detection seeks to design more effective and dynamic label assignment strategies
@@ -22,7 +22,7 @@ If the dataset inspires you, please cite us:
 ```
 @inproceedings{zu2024, 
    title = {Rank and Sort Loss-Aware Label Assignment with Centroid Prior for Dense Object Detection}, 
-   author = {Zu, Shicheng Zu and Jin, Yucheng}, 
+   author = {Zu, Shicheng and Jin, Yucheng}, 
    booktitle = {2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)}, 
    pages={1--9}, 
    year = {2024}
