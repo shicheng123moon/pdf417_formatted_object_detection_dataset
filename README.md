@@ -1,4 +1,4 @@
-# pdf417-formatred barcode object detection dataset
+# pdf417-formatted barcode object detection dataset
 This is a barcode detection dataset for detecting pdf417-formatted barcodes under the shooting of industrial cameras.
 This dataset contains 1,416 images with annotations of YOLO format and COCO format offered.
 The YOLOv8s model trained by this dataset has been applied in the BatchScan software in Ericsson logistics. 
