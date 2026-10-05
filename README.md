@@ -1,6 +1,7 @@
 # pdf417-formatred barcode object detection dataset
 This is the barcode detection dataset for detecting pdf417-formatted barcodes under the shooting of industrial cameras.
 This dataset contains 1,416 images with annotations of YOLO format and COCO format provided.
+This YOLOv8 models trained by this dataset has been applied in Ericsson logistics. 
 
 # Rank and Sort Loss-aware Label Assignment
 The recent progress in object detection seeks to design more effective and dynamic label assignment strategies
